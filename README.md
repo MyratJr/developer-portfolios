@@ -443,7 +443,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mustafa Bhikhapurwala](https://mustafadev.me)
 - [Mustapha Nkhili](https://mustapha-nkhili.web.app/)
 - [Muzaffer Kadir YILMAZ](https://mkdir.dev/)
-
+- [Myratgeldi Begmyradow](https://myratjr.github.io/MyratJrPro/)
+  
 ## N
 
 - [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
